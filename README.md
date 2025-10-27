@@ -43,3 +43,14 @@ Portfólio pessoal desenvolvido durante a formação Front-end da Alura, demonst
 - Experiência de usuário fluida
 
 ## 📁 Estrutura do Projeto
+HTML-and-CSS/
+├── index.html # Página principal
+├── about.html # Página "Sobre mim"
+├── README.md # Documentação do projeto
+├── styles/
+│ └── style.css # Estilos principais
+└── assets/
+    ├── github.png # Ícone GitHub
+    ├── linkedin.png # Ícone LinkedIn
+    ├── twitch.png # Ícone Twitch
+    └── imagem1.png # Imagem de perfil
